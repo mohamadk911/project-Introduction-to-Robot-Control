@@ -1,7 +1,7 @@
 function cfg = ai_config()
 % Central configuration file for AI + VS Code + MATLAB workflow.
 
-cfg.model = 'v2_20260629_Mohamad_ElMustapha_321146124_DLBROPIRC01_E_MATLAB';   % example: 'x20260629_Mohamad_Project2_V2'
+cfg.model = 'robot_control_model';   % Simulink model filename without the .slx extension
 
 cfg.stopTime = '10';
 cfg.sampleTime = 0.01;
