@@ -13,7 +13,7 @@ This repository contains a MATLAB and Simulink study of a three-axis prismatic (
 
 ## Main files
 
-- v2_20260629_Mohamad_ElMustapha_321146124_DLBROPIRC01_E_MATLAB.slx — Simulink/Simscape model.
+- robot_control_model.slx — Simulink/Simscape model.
 - ai_config.m — model name, experiment settings, dimensions, masses, and PID gains.
 - ai_00_task2_workflow.m — prints the recommended workflow.
 - ai_01_init_signals.m — creates the configured reference signals.
